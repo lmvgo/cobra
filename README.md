@@ -1,3 +1,6 @@
+TODO
+- Print default value in help output
+
 ![cobra logo](assets/CobraMain.png)
 
 Cobra is a library for creating powerful modern CLI applications.
